@@ -1,6 +1,6 @@
 # The Future of Work #
 
-![Robots](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80)
+![Robots](https://media-exp3.licdn.com/dms/image/C4D22AQFCHd-RLgD0TQ/feedshare-shrink_1280/0/1624647076393?e=1628726400&v=beta&t=7YJD1rN2UmFbuEr5sftYPAQQ0VbekhimDh-oMxegL0Y)
 
 ### [The Future of Work](https://100jobsofthefuture.com/ "Prepare-se") ###
 
