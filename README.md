@@ -12,7 +12,7 @@
      
 ## Limitations of Machine Learning ##
 
-### Some habilities won't be _automated_, such as: ###
+### Some abilities won't be _automated_, such as: ###
 
 ```manual dexterity, emotional response, creativity in problem solving, ethical decisions```
     
